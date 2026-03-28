@@ -8,5 +8,9 @@
 </ul>
 </details>
 <details>
-  <h3>First time using github.</h3>
+  <ul>
+  <li>Firts time using github</li>
+  <li> probably going to change the repo name and readme, to use it for another project</li>
+  <li>maybe the java one.</li>
+</ul>
 </details>
