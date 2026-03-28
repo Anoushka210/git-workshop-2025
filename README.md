@@ -8,9 +8,5 @@
 </ul>
 </details>
 <details>
-<summary><h3> 2. Implement a program to check if a number is even or odd. </h3></summary>
-<ul>
-  <li> Create a new file in the repository and add your code. </li>
-  <li> Use any programming language of your choice. </li>
-</ul>
+  <h3>First time using github.</h3>
 </details>
